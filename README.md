@@ -1,4 +1,4 @@
-# Liens rapides ÉTS
+# Liens rapides ÉTS (Google Chrome)
 
 > ⚠️ Cette extension est une initiative personnelle et n'est pas une application officielle de l'École de technologie supérieure (ÉTS).
 
